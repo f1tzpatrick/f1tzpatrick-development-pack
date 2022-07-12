@@ -1,0 +1,22 @@
+{
+    "name": "f1tzpatrick-development-pack",
+    "displayName": "Steven's Development Pack",
+    "description": "VSCode Extensions I commonly install",
+    "repository": {
+        "url": "https://github.com/f1tzpatrick/f1tzpatrick-development-pack"
+    },
+    "publisher": "f1tzpatrick",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "adamhartford.vscode-base64",
+        "eamodio.gitlens",
+        "golang.go",
+        "rebornix.toggle"
+    ]
+}
